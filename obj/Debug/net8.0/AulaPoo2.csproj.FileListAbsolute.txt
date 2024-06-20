@@ -1,0 +1,14 @@
+C:\Users\carlos.obonfim\source\repos\AulaPoo2\AulaPoo2\bin\Debug\net8.0\AulaPoo2.exe
+C:\Users\carlos.obonfim\source\repos\AulaPoo2\AulaPoo2\bin\Debug\net8.0\AulaPoo2.deps.json
+C:\Users\carlos.obonfim\source\repos\AulaPoo2\AulaPoo2\bin\Debug\net8.0\AulaPoo2.runtimeconfig.json
+C:\Users\carlos.obonfim\source\repos\AulaPoo2\AulaPoo2\bin\Debug\net8.0\AulaPoo2.dll
+C:\Users\carlos.obonfim\source\repos\AulaPoo2\AulaPoo2\bin\Debug\net8.0\AulaPoo2.pdb
+C:\Users\carlos.obonfim\source\repos\AulaPoo2\AulaPoo2\obj\Debug\net8.0\AulaPoo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.obonfim\source\repos\AulaPoo2\AulaPoo2\obj\Debug\net8.0\AulaPoo2.AssemblyInfoInputs.cache
+C:\Users\carlos.obonfim\source\repos\AulaPoo2\AulaPoo2\obj\Debug\net8.0\AulaPoo2.AssemblyInfo.cs
+C:\Users\carlos.obonfim\source\repos\AulaPoo2\AulaPoo2\obj\Debug\net8.0\AulaPoo2.csproj.CoreCompileInputs.cache
+C:\Users\carlos.obonfim\source\repos\AulaPoo2\AulaPoo2\obj\Debug\net8.0\AulaPoo2.dll
+C:\Users\carlos.obonfim\source\repos\AulaPoo2\AulaPoo2\obj\Debug\net8.0\refint\AulaPoo2.dll
+C:\Users\carlos.obonfim\source\repos\AulaPoo2\AulaPoo2\obj\Debug\net8.0\AulaPoo2.pdb
+C:\Users\carlos.obonfim\source\repos\AulaPoo2\AulaPoo2\obj\Debug\net8.0\AulaPoo2.genruntimeconfig.cache
+C:\Users\carlos.obonfim\source\repos\AulaPoo2\AulaPoo2\obj\Debug\net8.0\ref\AulaPoo2.dll

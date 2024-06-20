@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AulaPoo2/1.0.0": {
+        "runtime": {
+          "AulaPoo2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AulaPoo2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
